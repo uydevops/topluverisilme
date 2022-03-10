@@ -1,0 +1,2 @@
+# topluverisilme
+toplu veri silme
